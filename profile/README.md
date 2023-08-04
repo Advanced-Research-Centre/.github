@@ -21,7 +21,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * QuNets - using quantum information for problems in network theory
 * QKSA - Evolving universal AGI agents for discovering physical laws
 * QPS - Discord Bot for Quantum Process Simulator
-* QPULBA - Qiskit implementation of QPULBA
+* QPULBA - Qiskit implementation of Quantum Parallel Universal Linear Bounded Automata
 * QuBio - Quantum-accelerated Bioinformatics
 * quineAGI - Quine-Neuro-Evolution
 * fractals
