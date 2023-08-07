@@ -7,7 +7,7 @@ The Quantum Intelligence research team is currently embedded and affiliated with
 Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/)
 
 ## List of project repositories:
-### Under active development:
+#### Under active development:
 * YAQQ - An agent that searches for novel quantum universal gate set
 * HilbertCorps - Automated Discovery of Quantum Error Correction Codes
 * QGym - A gymnasium environment for quantum circuit optimization
@@ -15,7 +15,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * QASM - Quantum Algorithmic Statistical Mechanics
 * MLC4QPM - Machine Learning Control for Quantum Programmable Matter
 * QLogicProg - A logic programming language for quantum accelerators
-### Archived:
+#### Archived:
 * QCircScape - Visualizing Quantum Circuit Probability
 * QaCHT - Quantum-accelerated Causal Hypothesis Testing
 * QuNets - using quantum information for problems in network theory
@@ -26,8 +26,29 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * quineAGI - Quine-Neuro-Evolution
 * fractals
 * automatic-logic-design
-### Repositories hosted in [QML-Group](https://github.com/QML-Group):
+#### Repositories hosted in [QML-Group](https://github.com/QML-Group):
 * Entropy4Mapping
 * KetGPT
 * AME_spin
 * ML4GST 
+
+## Group members:
+#### Current members:
+* Boran Apak (M.Sc. thesis student)
+* David Hamel (M.Sc. thesis student)
+* Joris Henstra (M.Sc. thesis student)
+* Sibasish Mishra (M.Sc. thesis student)
+* Sarang Gosavi (Researcher)
+* Tamal Acharya (Researcher)
+* Akash Kundu (Researcher)
+* Aritra Sarkar (Researcher, PI)
+#### Past members:
+* Anneriet Krol (M.Sc. thesis on  [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation`](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600)
+* Karthik Krishnakumar (M.Sc. thesis on `Distributed Quantum Circuit Simulation`)
+* Ravish Budhrani (M.Sc. thesis)
+* João Lourenço Teixeira Vieira (M.Sc. thesis)
+* Duarte Frazão (M.Sc. thesis)
+* Luís Ricardo Matos Mendes (M.Sc. thesis)
+* Harshitta Gandhi (Researcher)
+* Bao Bach (Researcher)
+* Sacha Szkudlarek (M.Sc. thesis)
