@@ -34,14 +34,14 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 
 ## Group members:
 #### Current members:
-* [Boran Apak](https://www.linkedin.com/in/boran-apak-004849279) (M.Sc. thesis student)
-* [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis student)
-* [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
 * [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis student)
-* [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Researcher)
+* [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
+* [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis student)
+* [Boran Apak](https://www.linkedin.com/in/boran-apak-004849279) (M.Sc. thesis student)
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Researcher)
-* [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
 * [Akash Kundu](https://www.linkedin.com/in/aqasch) (Researcher)
+* [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Researcher)
+* [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
 * [Aritra Sarkar](https://www.linkedin.com/in/sarkararitra/) (Researcher, PI)
 #### Past members:
 * [Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b) (M.Sc. thesis 2019)
