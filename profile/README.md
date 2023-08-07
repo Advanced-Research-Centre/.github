@@ -46,7 +46,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * Anneriet Krol (M.Sc. thesis)
   - [Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600)
 * Karthik Krishnakumar (M.Sc. thesis_
-  - [Distributed Quantum Circuit Simulation]
+  - [Distributed Quantum Circuit Simulation]()
 * Ravish Budhrani (M.Sc. thesis)
 * João Lourenço Teixeira Vieira (M.Sc. thesis)
 * Duarte Frazão (M.Sc. thesis)
