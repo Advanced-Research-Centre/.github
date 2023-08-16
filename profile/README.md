@@ -26,11 +26,13 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * quineAGI - Quine-Neuro-Evolution
 * fractals
 * automatic-logic-design
-#### Repositories hosted in [QML-Group](https://github.com/QML-Group):
-* Entropy4Mapping
-* KetGPT
-* AME_spin
-* ML4GST 
+#### Repositories hosted elsewhere:
+* [Entropy4Mapping](https://github.com/QML-Group/Entropy4Mapping) (private) - Quantum Entropy-based Qubit-Mapping 
+* [KetGPT](https://github.com/QML-Group/KetGPT) (private) - Generative AI for Quantum Circuits
+* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
+* [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
+* [QCodonOpt](https://github.com/qbee-eu/QCodonOpt) (private) - Quantum-accelerated RNA Codon Optimization
+* [QuantumSim](https://github.com/CaffeineMakesCode/QuantumSim) - Quantum Computing Simulator
 
 ## Group members:
 #### Current members:
