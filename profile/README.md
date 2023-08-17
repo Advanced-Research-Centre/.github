@@ -8,24 +8,24 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 
 ## List of project repositories:
 #### Under active development:
-* YAQQ - An agent that searches for novel quantum universal gate set
-* HilbertCorps - Automated Discovery of Quantum Error Correction Codes
-* QGym - A gymnasium environment for quantum circuit optimization
-* QraftRNA - Quantum Algorithms for RNA Design
-* QASM - Quantum Algorithmic Statistical Mechanics
-* MLC4QPM - Machine Learning Control for Quantum Programmable Matter
-* QLogicProg - A logic programming language for quantum accelerators
+* [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
+* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes
+* [QGym](https://github.com/Advanced-Research-Centre/QGym) - A gymnasium environment for quantum circuit optimization
+* [QraftRNA](https://github.com/Advanced-Research-Centre/QraftRNA) - Quantum Algorithms for RNA Design
+* [QASM](https://github.com/Advanced-Research-Centre/QASM) - Quantum Algorithmic Statistical Mechanics
+* [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
+* [QLogicProg](https://github.com/Advanced-Research-Centre/QLogicProg) - A logic programming language for quantum accelerators
 #### Archived:
-* QCircScape - Visualizing Quantum Circuit Probability
-* QaCHT - Quantum-accelerated Causal Hypothesis Testing
-* QuNets - using quantum information for problems in network theory
-* QKSA - Evolving universal AGI agents for discovering physical laws
-* QPS - Discord Bot for Quantum Process Simulator
-* QPULBA - Qiskit implementation of Quantum Parallel Universal Linear Bounded Automata
-* QuBio - Quantum-accelerated Bioinformatics
-* quineAGI - Quine-Neuro-Evolution
-* fractals
-* automatic-logic-design
+* [QCircScape](https://github.com/Advanced-Research-Centre/QCircScape) - Visualizing Quantum Circuit Probability
+* [QaCHT](https://github.com/Advanced-Research-Centre/QaCHT) - Quantum-accelerated Causal Hypothesis Testing
+* [QuNets](https://github.com/Advanced-Research-Centre/QuNets) - using quantum information for problems in network theory
+* [QKSA](https://github.com/Advanced-Research-Centre/QKSA) - Evolving universal AGI agents for discovering physical laws
+* [QPS](https://github.com/Advanced-Research-Centre/QPS) - Discord Bot for Quantum Process Simulator
+* [QPULBA](https://github.com/Advanced-Research-Centre/QPULBA) - Qiskit implementation of Quantum Parallel Universal Linear Bounded Automata
+* [QuBio](https://github.com/Advanced-Research-Centre/QuBio) - Quantum-accelerated Bioinformatics
+* [quineAGI](https://github.com/Advanced-Research-Centre/quineAGI) - Quine-Neuro-Evolution
+* [fractals](https://github.com/Advanced-Research-Centre/fractals)
+* [automatic-logic-design](https://github.com/Advanced-Research-Centre/automatic-logic-design)
 #### Repositories hosted elsewhere:
 * [Entropy4Mapping](https://github.com/QML-Group/Entropy4Mapping) (private) - Quantum Entropy-based Qubit-Mapping 
 * [KetGPT](https://github.com/QML-Group/KetGPT) (private) - Generative AI for Quantum Circuits
