@@ -7,7 +7,7 @@ The Quantum Intelligence research team is currently embedded and affiliated with
 Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/)
 
 ## List of project repositories:
-#### Under active development:
+### In active development:
 * [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
 * [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes
 * [QGym](https://github.com/Advanced-Research-Centre/QGym) - A gymnasium environment for quantum circuit optimization
@@ -15,7 +15,14 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [QASM](https://github.com/Advanced-Research-Centre/QASM) - Quantum Algorithmic Statistical Mechanics
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [QLogicProg](https://github.com/Advanced-Research-Centre/QLogicProg) - A logic programming language for quantum accelerators
-#### Archived:
+* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
+* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) (private) - Energy-Optimized Quantum Control
+* [Entropy4Mapping](https://github.com/QML-Group/Entropy4Mapping) (private) - Quantum Entropy-based Qubit-Mapping 
+* [KetGPT](https://github.com/QML-Group/KetGPT) (private) - Generative AI for Quantum Circuits
+* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
+* [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
+* [QCodonOpt](https://github.com/qbee-eu/QCodonOpt) (private) - Quantum-accelerated RNA Codon Optimization
+### Archived:
 * [QCircScape](https://github.com/Advanced-Research-Centre/QCircScape) - Visualizing Quantum Circuit Probability
 * [QaCHT](https://github.com/Advanced-Research-Centre/QaCHT) - Quantum-accelerated Causal Hypothesis Testing
 * [QuNets](https://github.com/Advanced-Research-Centre/QuNets) - using quantum information for problems in network theory
@@ -23,16 +30,10 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [QPS](https://github.com/Advanced-Research-Centre/QPS) - Discord Bot for Quantum Process Simulator
 * [QPULBA](https://github.com/Advanced-Research-Centre/QPULBA) - Qiskit implementation of Quantum Parallel Universal Linear Bounded Automata
 * [QuBio](https://github.com/Advanced-Research-Centre/QuBio) - Quantum-accelerated Bioinformatics
+* [QuantumSim](https://github.com/CaffeineMakesCode/QuantumSim) - Quantum Computing Simulator
 * [quineAGI](https://github.com/Advanced-Research-Centre/quineAGI) - Quine-Neuro-Evolution
 * [fractals](https://github.com/Advanced-Research-Centre/fractals)
 * [automatic-logic-design](https://github.com/Advanced-Research-Centre/automatic-logic-design)
-#### Repositories hosted elsewhere:
-* [Entropy4Mapping](https://github.com/QML-Group/Entropy4Mapping) (private) - Quantum Entropy-based Qubit-Mapping 
-* [KetGPT](https://github.com/QML-Group/KetGPT) (private) - Generative AI for Quantum Circuits
-* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
-* [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
-* [QCodonOpt](https://github.com/qbee-eu/QCodonOpt) (private) - Quantum-accelerated RNA Codon Optimization
-* [QuantumSim](https://github.com/CaffeineMakesCode/QuantumSim) - Quantum Computing Simulator
 
 ## Group members:
 #### Current members:
