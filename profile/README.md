@@ -10,21 +10,21 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 ### In active development:
 * [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
 * [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes
-* [QGym](https://github.com/Advanced-Research-Centre/QGym) - A gymnasium environment for quantum circuit optimization
-* [QraftRNA](https://github.com/Advanced-Research-Centre/QraftRNA) - Quantum Algorithms for RNA Design
-* [QASM](https://github.com/Advanced-Research-Centre/QASM) - Quantum Algorithmic Statistical Mechanics
-* [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
-* [QLogicProg](https://github.com/Advanced-Research-Centre/QLogicProg) - A logic programming language for quantum accelerators
-* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
 * [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) (private) - Energy-Optimized Quantum Control
-* [Entropy4Mapping](https://github.com/QML-Group/Entropy4Mapping) (private) - Quantum Entropy-based Qubit-Mapping 
+* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
 * [KetGPT](https://github.com/QML-Group/KetGPT) (private) - Generative AI for Quantum Circuits
-* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
+* [Entropy4Mapping](https://github.com/QML-Group/Entropy4Mapping) (private) - Quantum Entropy-based Qubit-Mapping 
 * [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
+* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
+* [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
+### Completed/Archived:
 * [QCodonOpt](https://github.com/qbee-eu/QCodonOpt) (private) - Quantum-accelerated RNA Codon Optimization
-### Archived:
+* [QraftRNA](https://github.com/Advanced-Research-Centre/QraftRNA) - Quantum Algorithms for RNA Design
+* [QGym](https://github.com/Advanced-Research-Centre/QGym) - A gymnasium environment for quantum circuit optimization
 * [QCircScape](https://github.com/Advanced-Research-Centre/QCircScape) - Visualizing Quantum Circuit Probability
 * [QaCHT](https://github.com/Advanced-Research-Centre/QaCHT) - Quantum-accelerated Causal Hypothesis Testing
+* [QLogicProg](https://github.com/Advanced-Research-Centre/QLogicProg) - A logic programming language for quantum accelerators
+* [QASM](https://github.com/Advanced-Research-Centre/QASM) - Quantum Algorithmic Statistical Mechanics
 * [QuNets](https://github.com/Advanced-Research-Centre/QuNets) - using quantum information for problems in network theory
 * [QKSA](https://github.com/Advanced-Research-Centre/QKSA) - Evolving universal AGI agents for discovering physical laws
 * [QPS](https://github.com/Advanced-Research-Centre/QPS) - Discord Bot for Quantum Process Simulator
@@ -41,10 +41,9 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
 * [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis student)
-* [Boran Apak](https://www.linkedin.com/in/boran-apak-004849279) (M.Sc. thesis student)
 * [Deepika Rajan](https://www.linkedin.com/in/deepika-rajan-991624249/) (M.Sc. thesis student)
-* [Alan Yu](https://qutech.nl/person/alan-yu/) (Researcher)
-* [Akash Kundu](https://www.linkedin.com/in/aqasch) (Researcher)
+* [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
+* [Akash Kundu](https://www.linkedin.com/in/aqasch) (Ph.D. candidate)
 * [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Researcher)
 * [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
 * [Aritra Sarkar](https://www.linkedin.com/in/sarkararitra/) (Researcher, PI)
@@ -66,4 +65,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Bao Gia Bach](https://www.linkedin.com/in/bao-bach) (Researcher 2023)
   - [Visualizing Quantum Circuit Probability: Estimating Quantum State Complexity for Quantum Program Synthesis](https://www.mdpi.com/1099-4300/25/5/763)
 * [Sacha Szkudlarek](https://www.linkedin.com/in/sacha-szkudlarek-375046129) (M.Sc. thesis 2023)
-  - Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory
+  - [Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12)
+* [Boran Apak](https://www.linkedin.com/in/boran-apak-004849279) (M.Sc. thesis 2023)
+  - KetGPT: Generating Quantum Circuits Using Transformers
+
