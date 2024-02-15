@@ -9,15 +9,15 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 ## List of project repositories:
 ### In active development:
 * [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
-* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes
 * [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) (private) - Energy-Optimized Quantum Control
 * [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
-* [KetGPT](https://github.com/QML-Group/KetGPT) (private) - Generative AI for Quantum Circuits
-* [Entropy4Mapping](https://github.com/QML-Group/Entropy4Mapping) (private) - Quantum Entropy-based Qubit-Mapping 
+* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes
 * [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
 * [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 ### Completed/Archived:
+* [KetGPT](https://github.com/QML-Group/KetGPT) - Dataset Augmentation of Quantum Circuits using Transformers
+* [QCMP-complexity-bound](https://github.com/QML-Group/QCMP-complexity-bound) - Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity
 * [QCodonOpt](https://github.com/qbee-eu/QCodonOpt) (private) - Quantum-accelerated RNA Codon Optimization
 * [QraftRNA](https://github.com/Advanced-Research-Centre/QraftRNA) - Quantum Algorithms for RNA Design
 * [QGym](https://github.com/Advanced-Research-Centre/QGym) - A gymnasium environment for quantum circuit optimization
