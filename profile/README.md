@@ -37,6 +37,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 
 ## Group members:
 #### Current members:
+* [Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/) (M.Sc. thesis student)
 * [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis student)
 * [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
@@ -44,6 +45,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Deepika Rajan](https://www.linkedin.com/in/deepika-rajan-991624249/) (M.Sc. thesis student)
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
 * [Akash Kundu](https://www.linkedin.com/in/aqasch) (Ph.D. candidate)
+* Meghashrita Das
 * [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Researcher)
 * [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
 * [Aritra Sarkar](https://www.linkedin.com/in/sarkararitra/) (Researcher, PI)
@@ -67,5 +69,5 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Sacha Szkudlarek](https://www.linkedin.com/in/sacha-szkudlarek-375046129) (M.Sc. thesis 2023)
   - [Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12)
 * [Boran Apak](https://www.linkedin.com/in/boran-apak-004849279) (M.Sc. thesis 2023)
-  - KetGPT: Generating Quantum Circuits Using Transformers
+  - [KetGPT: Generating Quantum Circuits Using Transformers](http://resolver.tudelft.nl/uuid:ffa47fb5-527b-4e8c-be88-f25fb9d27761)
 
