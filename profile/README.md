@@ -15,6 +15,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [ArtA]() (private) - Artificial Architect for Spin Qubits
 * [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes
 * [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
+* [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A quantum circuit decompiler
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 ### Completed/Archived:
 * [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
