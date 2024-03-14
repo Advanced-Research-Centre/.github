@@ -2,7 +2,7 @@
 
 The quantum intelligence research team investigates the interplay between Quantum and Intelligence. The quantum, especially in modalities of Q computation and Q information, is studied as the underlying automata and logic. Intelligence is studied as the software running on the quantum substrate, as a way to use better and understand quantum systems. These encompass applications like artificial general intelligence, reinforcement learning, quantum programming, causal inference, quantum machine learning, etc.
 
-The Quantum Intelligence research team is currently embedded and affiliated with the [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group of the Quantum Computing division of QuTech. For other projects within the group, check the [QML-Group](https://github.com/QML-Group) GitHub organization.
+The Quantum Intelligence research team is currently embedded and affiliated with the [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group of the Quantum Computing division of QuTech. The following list of projects are supervised by [Dr. Aritra Sarkar](https://github.com/prince-ph0en1x). For other projects within the group, check the [QML-Group](https://github.com/QML-Group) GitHub organization.
 
 Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/)
 
