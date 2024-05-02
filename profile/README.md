@@ -41,8 +41,9 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 
 ## Group members:
 #### Current members:
-* [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
+* [Mark Cilissen](https://www.linkedin.com/in/mxxxc/) (M.Sc. thesis student)
 * [Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/) (M.Sc. thesis student)
+* [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
 * [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis student)
 * [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
