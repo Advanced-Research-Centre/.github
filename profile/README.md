@@ -22,7 +22,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
 * [KetGPT](https://github.com/QML-Group/KetGPT) - Dataset Augmentation of Quantum Circuits using Transformers
 * [QCMP-complexity-bound](https://github.com/QML-Group/QCMP-complexity-bound) - Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity
-* [QCodonOpt](https://github.com/qbee-eu/QCodonOpt) (private) - Quantum-accelerated RNA Codon Optimization
+* [QCodonOpt](https://github.com/Advanced-Research-Centre/mRNA-CodonOpt) - Quantum-accelerated RNA Codon Optimization
 * [QraftRNA](https://github.com/Advanced-Research-Centre/QraftRNA) - Quantum Algorithms for RNA Design
 * [QGym](https://github.com/Advanced-Research-Centre/QGym) - A gymnasium environment for quantum circuit optimization
 * [QCircScape](https://github.com/Advanced-Research-Centre/QCircScape) - Visualizing Quantum Circuit Probability
@@ -46,7 +46,6 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis student)
 * [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
-* [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis student)
 * [Deepika Rajan](https://www.linkedin.com/in/deepika-rajan-991624249/) (M.Sc. thesis student)
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
 * [Akash Kundu](https://www.linkedin.com/in/aqasch) (Ph.D. candidate)
@@ -76,4 +75,5 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
   - [Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12)
 * [Boran Apak](https://www.linkedin.com/in/boran-apak-004849279) (M.Sc. thesis 2023)
   - [KetGPT: Generating Quantum Circuits Using Transformers](http://resolver.tudelft.nl/uuid:ffa47fb5-527b-4e8c-be88-f25fb9d27761)
+* [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis 2024)
 
