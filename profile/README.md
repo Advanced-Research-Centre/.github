@@ -11,7 +11,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
 * [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A quantum circuit decompiler
 * [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
-* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) (private) - Energy-Optimized Quantum Control
+* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [AutoQECC](https://github.com/Aqasch/RL-for-QECC) - Automated Discovery of Quantum Error Correction Codes (via RL-QAS)
 * [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes (via GP)
