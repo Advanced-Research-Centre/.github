@@ -45,7 +45,6 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/) (M.Sc. thesis student)
 * [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
 * [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis student)
-* [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
 * [Deepika Rajan](https://www.linkedin.com/in/deepika-rajan-991624249/) (M.Sc. thesis student)
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
@@ -77,4 +76,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Boran Apak](https://www.linkedin.com/in/boran-apak-004849279) (M.Sc. thesis 2023)
   - [KetGPT: Generating Quantum Circuits Using Transformers](http://resolver.tudelft.nl/uuid:ffa47fb5-527b-4e8c-be88-f25fb9d27761)
 * [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis 2024)
+  - [ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods]
+* [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis 2024)
+  - [Energy Efficient Universal Quantum Optimal Control]
 
