@@ -8,10 +8,7 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 
 ## List of project repositories:
 ### In active development:
-* [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
 * [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A quantum circuit decompiler
-* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
-* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [QPC](https://github.com/QML-Group/qpc) (private) - Quantum Pulse Compiler
 * [AutoQECC](https://github.com/Aqasch/RL-for-QECC) - Automated Discovery of Quantum Error Correction Codes (via RL-QAS)
@@ -19,6 +16,11 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
 ### Completed/Archived:
+* [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
+* [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search
+* [QIT-QAS]() - Quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search
+* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
+* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control
 * [ArtA]() (private) - Artificial Architect for Spin Qubits
 * [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
 * [KetGPT](https://github.com/QML-Group/KetGPT) - Dataset Augmentation of Quantum Circuits using Transformers
@@ -45,11 +47,11 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 * [Mark Cilissen](https://www.linkedin.com/in/mxxxc/) (M.Sc. thesis student)
 * [Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/) (M.Sc. thesis student)
 * [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
-* [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
 * [Deepika Rajan](https://www.linkedin.com/in/deepika-rajan-991624249/) (M.Sc. thesis student)
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
-* [Akash Kundu](https://www.linkedin.com/in/aqasch) (Ph.D. candidate)
+* [Akash Kundu](https://www.linkedin.com/in/aqasch) (Postdoc researcher)
+* [Abhishek Sadhu](https://www.linkedin.com/in/abhishek-sadhu-7a78706b) (Postdoc researcher)
 * [Meghashrita Das](https://www.linkedin.com/in/meghashrita-das-b02811190/) (Intern)
 * [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Intern)
 * [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
@@ -80,4 +82,4 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
   - [ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods]
 * [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis 2024)
   - [Energy Efficient Universal Quantum Optimal Control]
-
+* [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis 2024)
