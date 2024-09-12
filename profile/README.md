@@ -45,10 +45,8 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 ## Group members:
 #### Current members:
 * [Mark Cilissen](https://www.linkedin.com/in/mxxxc/) (M.Sc. thesis student)
-* [Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/) (M.Sc. thesis student)
 * [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
-* [Deepika Rajan](https://www.linkedin.com/in/deepika-rajan-991624249/) (M.Sc. thesis student)
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
 * [Akash Kundu](https://www.linkedin.com/in/aqasch) (Postdoc researcher)
 * [Abhishek Sadhu](https://www.linkedin.com/in/abhishek-sadhu-7a78706b) (Postdoc researcher)
@@ -80,6 +78,11 @@ Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
   - [KetGPT: Generating Quantum Circuits Using Transformers](http://resolver.tudelft.nl/uuid:ffa47fb5-527b-4e8c-be88-f25fb9d27761)
 * [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis 2024)
   - [ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods]
+* [Deepika Rajan](https://in.linkedin.com/in/deepika-rajan-991624249) (M.Tech. thesis 2024)
+    * [`Automated Discovery of Quantum Error Correction Codes']()
 * [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis 2024)
-  - [Energy Efficient Universal Quantum Optimal Control]
+  - [Energy Efficient Universal Quantum Optimal Control](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359)
 * [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis 2024)
+  - [Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
+* [Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/) (M.Sc. thesis 2024)
+    * [Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Genetic Algorithm](https://hdl.handle.net/1887/4010640)
