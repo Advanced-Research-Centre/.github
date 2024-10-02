@@ -8,14 +8,15 @@ Follow our updates on LinkedIn at [https://www.linkedin.com/company/92748506/](h
 
 ## List of project repositories:
 ### In active development:
+* [CutQAS](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Reinforcement Learning based Quantum Circuit Cutting
 * [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A quantum circuit decompiler
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [QPC](https://github.com/QML-Group/qpc) (private) - Quantum Pulse Compiler
-* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes (via Genetic Programming)
 * [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
 ### Completed/Archived:
 * [AutoQECC](https://github.com/Aqasch/RL-for-QECC) - Automated Discovery of Quantum Error Correction Codes (via Simulated Annealing)
+* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes (via Genetic Programming)
 * [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
 * [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search
 * [QIT-QAS]() - Quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search
