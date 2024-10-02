@@ -2,20 +2,20 @@
 
 The quantum intelligence research team investigates the interplay between Quantum and Intelligence. The quantum, especially in modalities of Q computation and Q information, is studied as the underlying automata and logic. Intelligence is studied as the software running on the quantum substrate, as a way to use better and understand quantum systems. These encompass applications like artificial general intelligence, reinforcement learning, quantum programming, causal inference, quantum machine learning, etc.
 
-The Quantum Intelligence research team is currently embedded and affiliated with the [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group of the Quantum Computing division of QuTech. The following list of projects are supervised by [Dr. Aritra Sarkar](https://github.com/prince-ph0en1x). For other projects within the group, check the [QML-Group](https://github.com/QML-Group) GitHub organization.
+The Quantum Intelligence research team is currently an independent group. Between 2022-24, it was embedded and affiliated with the [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group of the Quantum Computing division of QuTech. The following list of projects are supervised by [Dr. Aritra Sarkar](https://github.com/prince-ph0en1x). For other projects within the group, check the [QML-Group](https://github.com/QML-Group) GitHub organization.
 
-Follow out updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/)
+Follow our updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/)
 
 ## List of project repositories:
 ### In active development:
 * [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A quantum circuit decompiler
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [QPC](https://github.com/QML-Group/qpc) (private) - Quantum Pulse Compiler
-* [AutoQECC](https://github.com/Aqasch/RL-for-QECC) - Automated Discovery of Quantum Error Correction Codes (via RL-QAS)
-* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes (via GP)
+* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes (via Genetic Programming)
 * [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
 ### Completed/Archived:
+* [AutoQECC](https://github.com/Aqasch/RL-for-QECC) - Automated Discovery of Quantum Error Correction Codes (via Simulated Annealing)
 * [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
 * [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search
 * [QIT-QAS]() - Quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search
