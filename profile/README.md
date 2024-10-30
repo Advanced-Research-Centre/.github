@@ -39,8 +39,12 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 * [QKSA](https://github.com/Advanced-Research-Centre/QKSA) - Evolving universal AGI agents for discovering physical laws [(article)](https://doi.org/10.1007/978-3-031-19907-3_37) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
 * [QPS](https://github.com/Advanced-Research-Centre/QPS) - Discord Bot for Quantum Process Simulator
 * [QPULBA](https://github.com/Advanced-Research-Centre/QPULBA) - Qiskit implementation of Quantum Parallel Universal Linear Bounded Automata [(article)](https://doi.org/10.3390/app11062696) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
-* [QuBio](https://github.com/Advanced-Research-Centre/QuBio) - Quantum-accelerated Bioinformatics [(article)](https://doi.org/10.3390/electronics10192433) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
+* [QuBio](https://github.com/Advanced-Research-Centre/QuBio) - Quantum-accelerated Bioinformatics [(article)](https://doi.org/10.3390/app11062696) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
+* [QuASeR](https://github.com/prince-ph0en1x/QuASeR) - Quantum Accelerated De Novo DNA Sequence Reconstruction [(article)](https://doi.org/10.1371/journal.pone.0249850) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
+* [OpenQL_PC](https://github.com/anneriet/OpenQL) - Efficient parametric compilation for hybrid computing in OpenQL [(article)](https://doi.org/10.1109/QCE57702.2023.10192)
 * [QuantumSim](https://github.com/CaffeineMakesCode/QuantumSim) - Quantum Computing Simulator
+* [OpenQL_UD](https://github.com/QuTech-Delft/OpenQL) - Efficient unitary decomposition in OpenQL [(article)](https://doi.org/10.3390/app12020759) [(thesis)](https://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) 
+* [QAGS](https://github.com/prince-ph0en1x/QAGS) - Quantum-accelerated Genome Sequencing (ab initio reference alignment) [(article)](https://doi.org/10.3390/electronics10192433) [(thesis)](https://resolver.tudelft.nl/uuid:4257310d-6d8b-4f5a-9fda-00cf8e081f0e)
 * [quineAGI](https://github.com/Advanced-Research-Centre/quineAGI) - Quine-Neuro-Evolution
 * [fractals](https://github.com/Advanced-Research-Centre/fractals)
 * [automatic-logic-design](https://github.com/Advanced-Research-Centre/automatic-logic-design)
