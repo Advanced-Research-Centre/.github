@@ -8,36 +8,38 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 
 ## List of project repositories:
 ### In active development:
+* [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A QASM-to-Qiskit quantum circuit decompiler [(thesis)](https://hdl.handle.net/1887/4010640)
+* [KANQOC](https://github.com/Advanced-Research-Centre/KAN-QOC) (private) - Kolmogorov Arnold Network for Quantum Optimal Control
 * [CutQAS](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Reinforcement Learning based Quantum Circuit Cutting
-* [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A quantum circuit decompiler
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
-* [QPC](https://github.com/QML-Group/qpc) (private) - Quantum Pulse Compiler
+* [AutoQECC](https://github.com/Aqasch/RL-for-QECC) (private) - Automated Discovery of Quantum Error Correction Codes via Simulated Annealing
 * [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
+* [QPC](https://github.com/QML-Group/qpc) (private) - An expressive pulse-programming language
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
 ### Completed/Archived:
-* [AutoQECC](https://github.com/Aqasch/RL-for-QECC) - Automated Discovery of Quantum Error Correction Codes (via Simulated Annealing)
-* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes (via Genetic Programming)
-* [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set
-* [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search
-* [QIT-QAS]() - Quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search
-* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory
-* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control
-* [ArtA]() (private) - Artificial Architect for Spin Qubits
-* [ML4GST](https://github.com/QML-Group/ML4GST) (private) - Machine Learning for Gate Set Tomography
-* [KetGPT](https://github.com/QML-Group/KetGPT) - Dataset Augmentation of Quantum Circuits using Transformers
-* [QCMP-complexity-bound](https://github.com/QML-Group/QCMP-complexity-bound) - Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity
-* [QCodonOpt](https://github.com/Advanced-Research-Centre/mRNA-CodonOpt) - Quantum-accelerated RNA Codon Optimization
+* [LEGO_HQEC](https://github.com/QML-Group/HQEC) - Analysis of Holographic Quantum Error Correction Codes [(preprint)]()
+* [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes via Genetic Programming
+* [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set [(preprint)](https://arxiv.org/abs/2406.17610)
+* [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search [(preprint)](https://arxiv.org/abs/2406.17630)
+* [QIT-QAS]() - Quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search [(article)](https://doi.org/10.1007/s42484-024-00181-0)
+* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory [(thesis)](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
+* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control [(thesis)](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359)
+* [ArtA]() - Artificial Architect for Spin Qubits [(preprint)](https://arxiv.org/abs/2407.18151) [(thesis)]()
+* [ML4GST](https://github.com/QML-Group/ML4GST) - Machine Learning for Gate Set Tomography [(preprint)](https://arxiv.org/abs/2405.02097)
+* [KetGPT](https://github.com/QML-Group/KetGPT) - Dataset Augmentation of Quantum Circuits using Transformers [(article)](https://doi.org/10.1007/978-3-031-63778-0_17) [(thesis)](https://resolver.tudelft.nl/uuid:ff02dbbd-b0c5-4c33-b71a-337c5e0d1783)
+* [QCMP-complexity-bound](https://github.com/QML-Group/QCMP-complexity-bound) - Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity [(article)](https://arxiv.org/abs/2402.00478) [(thesis)](https://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12)
+* [QCodonOpt](https://github.com/Advanced-Research-Centre/mRNA-CodonOpt) - Quantum-accelerated RNA Codon Optimization [(preprint)](https://arxiv.org/abs/2404.14858)
 * [QraftRNA](https://github.com/Advanced-Research-Centre/QraftRNA) - Quantum Algorithms for RNA Design
 * [QGym](https://github.com/Advanced-Research-Centre/QGym) - A gymnasium environment for quantum circuit optimization
-* [QCircScape](https://github.com/Advanced-Research-Centre/QCircScape) - Visualizing Quantum Circuit Probability
-* [QaCHT](https://github.com/Advanced-Research-Centre/QaCHT) - Quantum-accelerated Causal Hypothesis Testing
+* [QCircScape](https://github.com/Advanced-Research-Centre/QCircScape) - Visualizing Quantum Circuit Probability [(article)](https://doi.org/10.3390/e25050763)
+* [QaCHT](https://github.com/Advanced-Research-Centre/QaCHT) - Quantum-accelerated Causal Hypothesis Testing [(article)](https://doi.org/10.1002/qute.202300326)
 * [QLogicProg](https://github.com/Advanced-Research-Centre/QLogicProg) - A logic programming language for quantum accelerators
 * [QASM](https://github.com/Advanced-Research-Centre/QASM) - Quantum Algorithmic Statistical Mechanics
 * [QuNets](https://github.com/Advanced-Research-Centre/QuNets) - using quantum information for problems in network theory
-* [QKSA](https://github.com/Advanced-Research-Centre/QKSA) - Evolving universal AGI agents for discovering physical laws
+* [QKSA](https://github.com/Advanced-Research-Centre/QKSA) - Evolving universal AGI agents for discovering physical laws [(article)](https://doi.org/10.1007/978-3-031-19907-3_37) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
 * [QPS](https://github.com/Advanced-Research-Centre/QPS) - Discord Bot for Quantum Process Simulator
-* [QPULBA](https://github.com/Advanced-Research-Centre/QPULBA) - Qiskit implementation of Quantum Parallel Universal Linear Bounded Automata
-* [QuBio](https://github.com/Advanced-Research-Centre/QuBio) - Quantum-accelerated Bioinformatics
+* [QPULBA](https://github.com/Advanced-Research-Centre/QPULBA) - Qiskit implementation of Quantum Parallel Universal Linear Bounded Automata [(article)](https://doi.org/10.3390/app11062696) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
+* [QuBio](https://github.com/Advanced-Research-Centre/QuBio) - Quantum-accelerated Bioinformatics [(article)](https://doi.org/10.3390/electronics10192433) [(thesis)](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576)
 * [QuantumSim](https://github.com/CaffeineMakesCode/QuantumSim) - Quantum Computing Simulator
 * [quineAGI](https://github.com/Advanced-Research-Centre/quineAGI) - Quine-Neuro-Evolution
 * [fractals](https://github.com/Advanced-Research-Centre/fractals)
