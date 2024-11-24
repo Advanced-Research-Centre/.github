@@ -64,7 +64,7 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 #### Past members:
 * [Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b) (M.Sc. thesis 2019)
   - [Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600)
-* [Neil Eelman](https://www.linkedin.com/in/neileelman/) (Intern 2019)
+* [Neil Eelman](https://www.linkedin.com/in/neileelman/) (Internship 2019)
   - Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL
 * [Karthik Krishnakumar](https://www.linkedin.com/in/karthik-krishnakumar) (M.Sc. thesis 2020)
   - Distributed Quantum Circuit Simulation
@@ -78,7 +78,7 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
   - [QKSA: Quantum Knowledge Seeking Agent - resource-optimized reinforcement learning using quantum process tomography](https://arxiv.org/abs/2112.03643)
 * [Luís Ricardo Matos Mendes](https://www.linkedin.com/in/luis-rmendes) (M.Sc. thesis 2022)
   - [Scalable Parallelization of Quantum Computing Simulations](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf)
-* [Bao Gia Bach](https://www.linkedin.com/in/bao-bach) (Intern 2023)
+* [Bao Gia Bach](https://www.linkedin.com/in/bao-bach) (Internship 2023)
   - [Visualizing Quantum Circuit Probability: Estimating Quantum State Complexity for Quantum Program Synthesis](https://www.mdpi.com/1099-4300/25/5/763)
 * [Sacha Szkudlarek](https://www.linkedin.com/in/sacha-szkudlarek-375046129) (M.Sc. thesis 2023)
   - [Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12)
