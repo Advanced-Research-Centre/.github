@@ -11,19 +11,19 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 * [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A QASM-to-Qiskit quantum circuit decompiler [(thesis)](https://hdl.handle.net/1887/4010640)
 * [KANQOC](https://github.com/Advanced-Research-Centre/KAN-QOC) (private) - Kolmogorov Arnold Network for Quantum Optimal Control
 * [CutQAS](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Reinforcement Learning based Quantum Circuit Cutting
-* [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [AutoQECC](https://github.com/Aqasch/RL-for-QECC) (private) - Automated Discovery of Quantum Error Correction Codes via Simulated Annealing
-* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization
+* [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [QPC](https://github.com/QML-Group/qpc) (private) - An expressive pulse-programming language
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
 ### Completed/Archived:
-* [LEGO_HQEC](https://github.com/QML-Group/HQEC) - Analysis of Holographic Quantum Error Correction Codes [(preprint)]()
+* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization [(preprint under prep)]()
+* [LEGO_HQEC](https://github.com/QML-Group/HQEC) - Analysis of Holographic Quantum Error Correction Codes [(preprint)](https://arxiv.org/abs/2410.22861)
 * [HilbertCorps](https://github.com/Advanced-Research-Centre/HilbertCorps) - Automated Discovery of Quantum Error Correction Codes via Genetic Programming
 * [YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set [(preprint)](https://arxiv.org/abs/2406.17610)
 * [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search [(preprint)](https://arxiv.org/abs/2406.17630)
 * [QIT-QAS]() - Quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search [(article)](https://doi.org/10.1007/s42484-024-00181-0)
-* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory [(thesis)](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
-* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control [(thesis)](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359)
+* [QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory [(preprint under prep)]() [(thesis)](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
+* [EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control [(preprint)](https://arxiv.org/abs/2411.06556) [(thesis)](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359)
 * [ArtA]() - Artificial Architect for Spin Qubits [(preprint)](https://arxiv.org/abs/2407.18151) [(thesis)]()
 * [ML4GST](https://github.com/QML-Group/ML4GST) - Machine Learning for Gate Set Tomography [(preprint)](https://arxiv.org/abs/2405.02097)
 * [KetGPT](https://github.com/QML-Group/KetGPT) - Dataset Augmentation of Quantum Circuits using Transformers [(article)](https://doi.org/10.1007/978-3-031-63778-0_17) [(thesis)](https://resolver.tudelft.nl/uuid:ff02dbbd-b0c5-4c33-b71a-337c5e0d1783)
