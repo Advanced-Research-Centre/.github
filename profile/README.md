@@ -52,15 +52,15 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 
 ## Group members:
 #### Current members:
+* [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
+* [Akash Kundu](https://www.linkedin.com/in/aqasch) (Postdoc researcher)
+* [Abhishek Sadhu](https://www.linkedin.com/in/abhishek-sadhu-7a78706b) (Postdoc researcher)
+* [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
+* [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Intern)
+* [Meghashrita Das](https://www.linkedin.com/in/meghashrita-das-b02811190/) (Intern)
 * [Mark Cilissen](https://www.linkedin.com/in/mxxxc/) (M.Sc. thesis student)
 * [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
 * [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
-* [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
-* [Akash Kundu](https://www.linkedin.com/in/aqasch) (Postdoc researcher)
-* [Abhishek Sadhu](https://www.linkedin.com/in/abhishek-sadhu-7a78706b) (Postdoc researcher)
-* [Meghashrita Das](https://www.linkedin.com/in/meghashrita-das-b02811190/) (Intern)
-* [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Intern)
-* [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
 #### Past members:
 * [Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b) (M.Sc. thesis 2019)
   - [Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600)
@@ -87,7 +87,7 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 * [David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197) (M.Sc. thesis 2024)
   - [ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods]
 * [Deepika Rajan](https://in.linkedin.com/in/deepika-rajan-991624249) (M.Tech. thesis 2024)
-    * [`Automated Discovery of Quantum Error Correction Codes']()
+    * [Automated Discovery of Quantum Error Correction Codes]()
 * [Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaan-fauquenot-694147182/) (M.Sc. thesis 2024)
   - [Energy Efficient Universal Quantum Optimal Control](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359)
 * [Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176) (M.Sc. thesis 2024)
