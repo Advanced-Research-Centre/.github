@@ -11,7 +11,7 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 * [QLL](https://github.com/Advanced-Research-Centre/XQAS) (private) - Quantum Library Learning
 * [KANQOC](https://github.com/Advanced-Research-Centre/KAN-QOC) (private) - Kolmogorov Arnold Network for Quantum Optimal Control
 * [CutQAS](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Reinforcement Learning based Quantum Circuit Cutting
-* [AutoQECC](https://github.com/Aqasch/RL-for-QECC) (private) - Automated Discovery of Quantum Error Correction Codes via Simulated Annealing
+* [AutoQEC](https://github.com/Advanced-Research-Centre/AutoQEC)/[old](https://github.com/Aqasch/RL-for-QECC) (private) - Automated Discovery of Quantum Error Correction Codes via Simulated Annealing
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [QPC](https://github.com/QML-Group/qpc) (private) - An expressive pulse-programming language
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
