@@ -9,13 +9,13 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 ## List of project repositories:
 ### In active development:
 * [QLL](https://github.com/Advanced-Research-Centre/XQAS) (private) - Quantum Library Learning
-* [KANQOC](https://github.com/Advanced-Research-Centre/KAN-QOC) (private) - Kolmogorov Arnold Network for Quantum Optimal Control
-* [CutQAS](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Reinforcement Learning based Quantum Circuit Cutting
-* [AutoQEC](https://github.com/Advanced-Research-Centre/AutoQEC)/[old](https://github.com/Aqasch/RL-for-QECC) (private) - Automated Discovery of Quantum Error Correction Codes via Simulated Annealing
+* [CutQAS](https://github.com/Advanced-Research-Centre/CutQAS)/[old](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 * [QPC](https://github.com/QML-Group/qpc) (private) - An expressive pulse-programming language
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
 ### Completed/Archived:
+* [AutoQEC](https://github.com/Advanced-Research-Centre/AutoQEC)/[old](https://github.com/Aqasch/RL-for-QECC) (private) - Automated Discovery of Quantum Error Correction Codes via Simulated Annealing
+* [KANQOC](https://github.com/Advanced-Research-Centre/KAN-QOC) (private) - Kolmogorov Arnold Network for Quantum Optimal Control
 * [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A QASM-to-Qiskit quantum circuit decompiler [(preprint under prep)]() [(thesis)](https://hdl.handle.net/1887/4010640)
 * [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization [(preprint under prep)]()
 * [LEGO_HQEC](https://github.com/QML-Group/HQEC) - Analysis of Holographic Quantum Error Correction Codes [(preprint)](https://arxiv.org/abs/2410.22861)
