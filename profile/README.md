@@ -52,9 +52,10 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 
 ## Group members:
 #### Current members:
+* [Dr. Aritra Sarkar](https://www.linkedin.com/in/sarkararitra/) (Researcher)
 * [Tamal Acharya](https://www.linkedin.com/in/tamal-acharya-49178a27) (Researcher)
-* [Akash Kundu](https://www.linkedin.com/in/aqasch) (Postdoc researcher)
-* [Abhishek Sadhu](https://www.linkedin.com/in/abhishek-sadhu-7a78706b) (Postdoc researcher)
+* [Dr. Akash Kundu](https://www.linkedin.com/in/aqasch) (Researcher)
+* [Dr. Abhishek Sadhu](https://www.linkedin.com/in/abhishek-sadhu-7a78706b) (Researcher)
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
 * [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Intern)
 * [Meghashrita Das](https://www.linkedin.com/in/meghashrita-das-b02811190/) (Intern)
