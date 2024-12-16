@@ -8,7 +8,7 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 
 ## List of project repositories:
 ### In active development:
-* [LLQCE](https://github.com/Advanced-Research-Centre/LLQCE) - Library Learning for Quantum Computer Engineering
+* [Qurator](https://github.com/Advanced-Research-Centre/LLQCE) - Library Learning for Quantum Computer Engineering
 * [XQAS](https://github.com/Advanced-Research-Centre/XQAS) (private) - Explainable Quantum Architecture Search
 * [CutQAS](https://github.com/Advanced-Research-Centre/CutQAS)/[old](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
