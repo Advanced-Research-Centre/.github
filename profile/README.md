@@ -9,12 +9,13 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 ## List of project repositories:
 ### In active development:
 * [Qurator](https://github.com/Advanced-Research-Centre/Qurator) - Library Learning for Quantum Computer Engineering
-* [XQAS](https://github.com/Advanced-Research-Centre/XQAS) (private) - Explainable Quantum Architecture Search
 * [CutQAS](https://github.com/Advanced-Research-Centre/CutQAS)/[old](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry
+* [XQAS](https://github.com/Advanced-Research-Centre/XQAS) (private) - Explainable Quantum Architecture Search
+* [EKSA](https://github.com/Advanced-Research-Centre/EKSA) - Embedded Knowledge Seeking Agent
 * [MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
+### Completed/Archived:
 * [QPC](https://github.com/QML-Group/qpc) (private) - An expressive pulse-programming language
 * [Q-NARR](https://github.com/jhenstra/Q-NARR) (private) - Quantum Noise-Aware Routing with Reinforcement Learning
-### Completed/Archived:
 * [AutoQEC](https://github.com/Advanced-Research-Centre/AutoQEC)/[old](https://github.com/Aqasch/RL-for-QECC) (private) - Automated Discovery of Quantum Error Correction Codes via Simulated Annealing
 * [KANQOC](https://github.com/Advanced-Research-Centre/KAN-QOC) (private) - Kolmogorov Arnold Network for Quantum Optimal Control
 * [DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A QASM-to-Qiskit quantum circuit decompiler [(preprint under prep)]() [(thesis)](https://hdl.handle.net/1887/4010640)
@@ -60,9 +61,6 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
 * [Alan Yu](https://qutech.nl/person/alan-yu/) (Ph.D. candidate)
 * [Sarang Gosavi](https://www.linkedin.com/in/sarang-gosavi-b3249b169) (Intern)
 * [Meghashrita Das](https://www.linkedin.com/in/meghashrita-das-b02811190/) (Intern)
-* [Mark Cilissen](https://www.linkedin.com/in/mxxxc/) (M.Sc. thesis student)
-* [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
-* [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
 #### Past members:
 * [Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b) (M.Sc. thesis 2019)
   - [Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600)
@@ -96,3 +94,6 @@ Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748
   - [Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
 * [Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/) (M.Sc. thesis 2024)
     * [Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Genetic Algorithm](https://hdl.handle.net/1887/4010640)
+* [Mark Cilissen](https://www.linkedin.com/in/mxxxc/) (M.Sc. thesis student)
+* [Joris Henstra](https://www.linkedin.com/in/jorishenstra) (M.Sc. thesis student)
+* [Radu Cosmin Dumitru](https://www.linkedin.com/in/radu-cosmin-dumitru-578972295/) (B.Sc. honours student)
