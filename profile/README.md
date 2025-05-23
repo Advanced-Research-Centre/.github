@@ -4,10 +4,10 @@ The team of researchers at QIA investigates the interplay between Quantum and In
 
 The Quantum Intelligence research team is currently an independent group of researchers. Between 2022-24, it was embedded and affiliated with the [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group of the Quantum Computing division of QuTech. Between 2018-22, it was embedded and jointly affiliated with the erstwhile [Quantum Computer Architecture](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/) research group of QuTech and the [Accelerated Big Data Systems](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/computer-engineering/research/accelerated-big-data-systems) group at TU Delft.
 
-Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/)
+Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/) and our official Webpage at [https://www.quantum-intelligence.net/](https://www.quantum-intelligence.net/)
 
 ## List of project repositories:
-Projects with QI tag refers to the core thread of research, at the interface of Quantum information and Algorithmic information.
+Projects with QI tag refer to the core thread of research, at the interface of Quantum information and Algorithmic information.
 ### Under development:
 * QI:[Qurator](https://github.com/Advanced-Research-Centre/Qurator) - Library Learning for Quantum Computer Engineering
 * [CutQAS](https://github.com/Advanced-Research-Centre/CutQAS)/[old](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry
