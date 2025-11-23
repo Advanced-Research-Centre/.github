@@ -7,14 +7,14 @@ The Quantum Intelligence research team is currently an independent group of rese
 Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/) and our official Webpage at [https://www.quantum-intelligence.net/](https://www.quantum-intelligence.net/)
 
 ## List of project repositories:
-Projects with QI tag refer to the core thread of research, at the interface of Quantum information and Algorithmic information.
+Projects with QI tag refer to the core thread of research, at the interface of Quantum information and Algorithmic information guided intelligence.
 ### Under development:
 * QI:[Qurator](https://github.com/Advanced-Research-Centre/Qurator) - Library Learning for Quantum Computer Engineering
-* [CutQAS](https://github.com/Advanced-Research-Centre/CutQAS)/[old](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry
-* QI:[XQAS](https://github.com/Advanced-Research-Centre/XQAS) (private) - Explainable Quantum Architecture Search
+* QI:[XQAS](https://github.com/Advanced-Research-Centre/XQAS) - Explainable Quantum Architecture Search
 * QI:[EKSA](https://github.com/Advanced-Research-Centre/EKSA) - Embedded Knowledge Seeking Agent
 * QI:[MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
 ### Completed:
+* [CutQAS](https://github.com/Advanced-Research-Centre/CutQAS)/[old](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry
 * QI:[DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A QASM-to-Qiskit quantum circuit decompiler [(preprint under prep)]() [(thesis)](https://hdl.handle.net/1887/4010640)
 * QI:[YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set [(preprint)](https://arxiv.org/abs/2406.17610)
 * QI:[QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory [(preprint under prep)]() [(thesis)](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
