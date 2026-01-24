@@ -1,31 +1,33 @@
 # Quantum Intelligence Alliance
 
-The team of researchers at QIA investigates the interplay between Quantum and Intelligence. The quantum, especially in modalities of Q computation and Q information, is studied as the underlying automata and logic. Intelligence is studied as software running on the quantum substrate as a way to understand and use quantum systems better. These encompass applications like artificial general intelligence, reinforcement learning, quantum programming, causal inference, quantum machine learning, etc.
+The team of researchers at QIA investigates the interplay between Quantum and Intelligence. The quantum, especially in modalities of Q computation and Q information, is studied as the underlying automata and logic. Intelligence is studied as software running on a quantum substrate to better understand and use quantum systems. These include applications such as artificial general intelligence, reinforcement learning, quantum programming, causal inference, and quantum machine learning.
 
 The Quantum Intelligence research team is currently an independent group of researchers. Between 2022-24, it was embedded and affiliated with the [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group of the Quantum Computing division of QuTech. Between 2018-22, it was embedded and jointly affiliated with the erstwhile [Quantum Computer Architecture](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/) research group of QuTech and the [Accelerated Big Data Systems](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/computer-engineering/research/accelerated-big-data-systems) group at TU Delft.
 
 Follow our team's updates on LinkedIn at [https://www.linkedin.com/company/92748506/](https://www.linkedin.com/company/92748506/) and our official Webpage at [https://www.quantum-intelligence.net/](https://www.quantum-intelligence.net/)
 
 ## List of project repositories:
-Projects with QI tag refer to the core thread of research, at the interface of Quantum information and Algorithmic information guided intelligence.
+Projects with the QI tag refer to the core thread of research, at the interface of Quantum information and Algorithmic information guided intelligence.
+
 ### Under development:
 * QI:[Qurator](https://github.com/Advanced-Research-Centre/Qurator) - Library Learning for Quantum Computer Engineering
 * QI:[XQAS](https://github.com/Advanced-Research-Centre/XQAS) - Explainable Quantum Architecture Search
 * QI:[EKSA](https://github.com/Advanced-Research-Centre/EKSA) - Embedded Knowledge Seeking Agent
 * QI:[MLC4QPM](https://github.com/Advanced-Research-Centre/MLC4QPM) - Machine Learning Control for Quantum Programmable Matter
+
 ### Completed:
 * [CutQAS](https://github.com/Advanced-Research-Centre/CutQAS)/[old](https://github.com/AbhishekSadhu2023/Qubit-Cutting-with-RL) (private) - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry
-* QI:[DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A QASM-to-Qiskit quantum circuit decompiler [(preprint under prep)]() [(thesis)](https://hdl.handle.net/1887/4010640)
+* QI:[DeQompile](https://github.com/Advanced-Research-Centre/DeQompile) - A QASM-to-Qiskit quantum circuit decompiler [(preprint)](https://arxiv.org/abs/2504.08310) [(thesis)](https://hdl.handle.net/1887/4010640)
 * QI:[YAQQ](https://github.com/Advanced-Research-Centre/YAQQ) - An agent that searches for novel quantum universal gate set [(preprint)](https://arxiv.org/abs/2406.17610)
-* QI:[QART](https://github.com/QML-Group/QART/) (private) - Quantum Algorithmic Resource Theory [(preprint under prep)]() [(thesis)](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
-* QI:[EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Energy-Optimized Quantum Control [(preprint)](https://arxiv.org/abs/2411.06556) [(thesis)](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359)
-* [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search [(preprint)](https://arxiv.org/abs/2406.17630)
+* QI:[EQISA](https://github.com/Advanced-Research-Centre/EQISA) - Energy-efficient Quantum Instruction Set Architecture [(preprint under prep)]() [(thesis)](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f)
+* QI:[EO-QCtrl](https://github.com/QML-Group/EO-QCtrl) - Open and Closed Loop Approaches for Energy Efficient Quantum Optimal Control [(article)](https://doi.org/10.1002/qute.202400690) [(thesis)](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359)
+* [KANQAS](https://github.com/Aqasch/KANQAS_code) - Kolmogorov Arnold Network for Quantum Architecture Search [(article)](https://doi.org/10.1140/epjqt/s40507-024-00289-z)
 * [QIT-QAS]() - Quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search [(article)](https://doi.org/10.1007/s42484-024-00181-0)
 * [LEGO_HQEC](https://github.com/QML-Group/HQEC) - Analysis of Holographic Quantum Error Correction Codes [(preprint)](https://arxiv.org/abs/2410.22861)
 * QI:[ML4GST](https://github.com/QML-Group/ML4GST) - Transformer models for Gate Set Tomography [(article)](https://doi.org/10.1007/s42484-025-00237-9)
 * QI:[KetGPT](https://github.com/QML-Group/KetGPT) - Dataset Augmentation of Quantum Circuits using Transformers [(article)](https://doi.org/10.1007/978-3-031-63778-0_17) [(thesis)](https://resolver.tudelft.nl/uuid:ff02dbbd-b0c5-4c33-b71a-337c5e0d1783)
-* [AME_spin](https://github.com/QML-Group/AME_spin) (private) - AME States for Spin Processor Characterization [(preprint)](https://arxiv.org/abs/2412.12874)
-* [ArtA]() - Artificial Architect for Spin Qubits [(preprint)](https://arxiv.org/abs/2407.18151) [(thesis)]()
+* [AME_spin](https://github.com/QML-Group/AME_spin) - Near-Term Spin-Qubit Architecture Design via Multipartite Maximally Entangled States [(article)](https://doi.org/10.1103/PRXQuantum.6.020307)
+* [ArtA]() - Automating Design Space Exploration of spin-qubit architectures [(article)](https://doi.org/10.1007/s11128-025-04759-w) [(thesis)]()
 * QI:[QCMP-complexity-bound](https://github.com/QML-Group/QCMP-complexity-bound) - Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity [(article)](https://arxiv.org/abs/2402.00478) [(thesis)](https://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12)
 * QI:[QCircScape](https://github.com/Advanced-Research-Centre/QCircScape) - Visualizing Quantum Circuit Probability [(article)](https://doi.org/10.3390/e25050763)
 * QI:[QaCHT](https://github.com/Advanced-Research-Centre/QaCHT) - Quantum-accelerated Causal Hypothesis Testing [(article)](https://doi.org/10.1002/qute.202300326)
@@ -67,11 +69,11 @@ Projects with QI tag refer to the core thread of research, at the interface of Q
 * [Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b) (M.Sc. thesis 2019)
   - [Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600)
 * [Neil Eelman](https://www.linkedin.com/in/neileelman/) (Internship 2019)
-  - Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL
+  - Quantum State Tomography and Quantum-Assisted Quantum Compilation on OpenQL
 * [Karthik Krishnakumar](https://www.linkedin.com/in/karthik-krishnakumar) (M.Sc. thesis 2020)
   - Distributed Quantum Circuit Simulation
 * [Ravish Budhrani](https://www.linkedin.com/in/ravi-budhrani-31767b128) (M.Sc. thesis 2020)
-  - [QuantumSim - A memory efficient quantum computing simulator](http://resolver.tudelft.nl/uuid:8d0d0375-f35c-472f-bdd7-ad0012b22c91)
+  - [QuantumSim - A memory-efficient quantum computing simulator](http://resolver.tudelft.nl/uuid:8d0d0375-f35c-472f-bdd7-ad0012b22c91)
 * [João Lourenço Teixeira Vieira](https://www.linkedin.com/in/joaoltvieira) (M.Sc. thesis 2021)
   - [A Generic Micro-Architecture for Quantum Accelerators](https://repositorio-aberto.up.pt/bitstream/10216/136070/2/494080.pdf)
 * [Duarte Frazão](https://www.linkedin.com/in/duartefrazao) (M.Sc. thesis 2021)
